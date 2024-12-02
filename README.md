@@ -1,2 +1,2 @@
 # NoisyText
-Parallelized C# to generate stereoscopic noise overlayed with text
+Parallelized C# to generate stereographic noise overlayed with text
